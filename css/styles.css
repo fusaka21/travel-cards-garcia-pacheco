@@ -27,6 +27,7 @@ main img{
     padding: 10px;
 }
 
+
 /*CARDS GENERAL*/
 
 *{
@@ -297,10 +298,16 @@ main img{
 }
 
 .button4{
-
+ background-color: #00AEFF;
+ color: white;
+ padding: 5px 10px;
+ border-radius: 3px;
 }
 
 .button44{
-
+    border: #00AEFF 3px solid;
+    padding: 5px 10px;
+    border-radius: 3px;
+    margin-left: 8px;
 }
 
